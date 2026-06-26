@@ -7,7 +7,6 @@
 ![Estado](https://img.shields.io/badge/Estado-Completado-28a745?style=for-the-badge)
 ![Curso](https://img.shields.io/badge/Curso-Análisis%20de%20Algoritmos-orange?style=for-the-badge)
 ![UPN](https://img.shields.io/badge/UPN-Ingeniería-red?style=for-the-badge)
-![Licencia](https://img.shields.io/badge/Licencia-MIT-informational?style=for-the-badge)
 
 *Optimización de recursos hospitalarios mediante 8 estrategias algorítmicas fundamentales*
 
